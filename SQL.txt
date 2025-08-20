@@ -1,6 +1,6 @@
-## MySQL ##
-Database Operations
-CREATE DATABASE dbname; - Create new database
+# MySQL #
+## Database Operations ##
+####CREATE DATABASE dbname;####  ###### - Create new database #####
 USE dbname; - Select database to work with
 DROP DATABASE dbname; - Delete database
 SHOW DATABASES; - List all databases
