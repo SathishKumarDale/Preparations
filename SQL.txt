@@ -1,4 +1,4 @@
-MySQL
+## MySQL ##
 Database Operations
 CREATE DATABASE dbname; - Create new database
 USE dbname; - Select database to work with
